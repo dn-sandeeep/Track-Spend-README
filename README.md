@@ -1,4 +1,10 @@
-# Personal Finance Companion 💰
+
+<p align="center">
+  <img width="100" height="100" alt="App logo" src="https://github.com/user-attachments/assets/ad8acf7a-596e-4cc2-8b53-fac1f731caf9" />
+
+</p>
+
+# <h1 align="center">Personal Finance Companion 💰</h1>
 
 [![Kotlin](https://img.shields.io/badge/kotlin-1.9.24-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Compose](https://img.shields.io/badge/Compose-Multiplatform-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
@@ -31,7 +37,7 @@ The heart of the app where you get an instant snapshot of your financial health.
 - **Budget Ring:** A visual representation of your monthly spending against your budget.
 - **Weekly Trend Chart:** Analyze your spending patterns over the last 7 days with interactive bar charts.
 <p align="center">
-<img width="200" height="600" alt="home screen" src="https://github.com/user-attachments/assets/25e0b20c-03f2-4f36-83d0-d8a2ee5cf344" />
+<img width="200" height="450" alt="home screen" src="https://github.com/user-attachments/assets/25e0b20c-03f2-4f36-83d0-d8a2ee5cf344" />
 </p>
 ### 📝 Transaction Management
 Effortlessly record and categorize every penny.
@@ -40,12 +46,26 @@ Effortlessly record and categorize every penny.
 - **Add Transactions:** Quickly log income or expenses with details like amount, category, date, and description.
 - **Edit Transaction:** Swipe right on the transaction that you need to edit.
 - **Delete Transaction:** Swipe left on the transaction that you need to delete.
-<p align="center">
-<img width="200" height="600" alt="Trandsaction history" src="https://github.com/user-attachments/assets/0b5a5dff-2892-4b7d-bca1-c1426ca96fda" />
-<img width="200" height="600" alt="add transaction" src="https://github.com/user-attachments/assets/25d5c1d3-409d-451c-9343-2c49547249d3" />
-<img width="200" height="600" alt="Edit trandsaction" src="https://github.com/user-attachments/assets/0a0c203f-2368-4f74-b313-97b47944eee8" />
-<img width="200" height="600" alt="Delete trandsaction" src="https://github.com/user-attachments/assets/08aaa065-0c79-4198-b307-046a5f067477" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="200" height="450" alt="Trandsaction history" src="https://github.com/user-attachments/assets/0b5a5dff-2892-4b7d-bca1-c1426ca96fda" />
+       <i>Transaction History</i>
+    </td>
+    <td align="center">
+<img width="200" height="450" alt="add transaction" src="https://github.com/user-attachments/assets/25d5c1d3-409d-451c-9343-2c49547249d3" />
+       <i>Add Transaction</i>
+    </td>
+    <td align="center">
+<img width="200" height="450" alt="Edit trandsaction" src="https://github.com/user-attachments/assets/0a0c203f-2368-4f74-b313-97b47944eee8" />
+       <i>Edit Transaction</i>
+    </td>
+    <td align="center">
+<img width="200" height="450" alt="Delete trandsaction" src="https://github.com/user-attachments/assets/08aaa065-0c79-4198-b307-046a5f067477" />
+<i>Delete Transaction</i>
+    </td>
+  </tr>
+</table>
 
 ### 🎯 Financial Goals
 Save for what matters most.
@@ -54,10 +74,18 @@ Save for what matters most.
 - **Target Dates:** Stay motivated with clear deadlines for each goal.
 - **Prioritize Goal:** Prioritize your goal that is important to you.
 - **No Spend Challenge:** User can choose the days for the challenge to avoid non-essential spends (e.g., entertainment, food)
-<p align="center">
-<img width="200" height="600" alt="Goal" src="https://github.com/user-attachments/assets/1df24c88-40ab-45bf-8110-ce8ab30827fa" />
-<img width="200" height="600" alt="Goal-2" src="https://github.com/user-attachments/assets/c3ffd0fd-12d5-4020-a252-da86d90decdf" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+<img width="200" height="450" alt="Goal" src="https://github.com/user-attachments/assets/1df24c88-40ab-45bf-8110-ce8ab30827fa" />
+       <i>Make your goal</i>
+    </td>
+    <td align="center">
+<img width="200" height="450" alt="Goal-2" src="https://github.com/user-attachments/assets/c3ffd0fd-12d5-4020-a252-da86d90decdf" />
+<i>Take no spend challange</i>
+    </td>
+  </tr>
+</table>
 
 ### 📊 Advanced Insights
 Data-driven decisions for better savings.
@@ -65,7 +93,7 @@ Data-driven decisions for better savings.
 - **Category Analysis:** Identify where most of your money goes and find opportunities to save.
 - **Dynamic Filtering:** View insights for different time periods (Weekly, Monthly, Yearly).
 <p align="center">
-<img width="200" height="600" alt="Insights" src="https://github.com/user-attachments/assets/125d53ba-648e-4656-9f5e-399ae7222cfe" />
+<img width="200" height="450" alt="Insights" src="https://github.com/user-attachments/assets/125d53ba-648e-4656-9f5e-399ae7222cfe" />
 </p>
 
 ### 🔔 Smart Notifications
@@ -86,10 +114,19 @@ The app ensures a professional feel even when data is missing or loading:
 
 ### 1. Setting Up Your Profile
 When you first open the app, head to the **Profile** section to select your preferred **Currency**. This will ensure all your financial data is displayed in a way that makes sense to you.
-<p align="center">
-<img width="200" height="600" alt="Settings" src="https://github.com/user-attachments/assets/ff02e4e2-cb0f-4d74-b422-b5810d319001" />
-<img width="200" height="600" alt="Currency" src="https://github.com/user-attachments/assets/c44c7d23-5338-4a3c-b089-64004561abde" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+<img width="200" height="450" alt="Settings" src="https://github.com/user-attachments/assets/ff02e4e2-cb0f-4d74-b422-b5810d319001" />
+       <i>User Profile</i>
+    </td>
+    <td align="center">
+<img width="200" height="450" alt="Currency" src="https://github.com/user-attachments/assets/c44c7d23-5338-4a3c-b089-64004561abde" />
+<i>Choose Your Currency</i>
+    </td>
+  </tr>
+</table>
+
 ### 2. Logging Your First Transaction
 - Tap the **"+" (Add)** button on the Transaction screen.
 - Select the **Transaction Type** (Income or Expense).
